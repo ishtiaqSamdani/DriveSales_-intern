@@ -14,17 +14,6 @@
   padding-top: 0;
   padding-bottom: 21px;
 }
-.ironMan2 {
-  padding-bottom: 0px;
-}
-
-.ironMan3{
-    padding-top:0px;
-}
-
-.ironMan4{
-    padding: 0px;
-}
 
 .ironMan5{
   display:flex;
@@ -93,7 +82,7 @@
 }
 
 .btni{
-  padding: 0.5rem 2rem;;
+  padding: 0.5rem 2rem;
 }
 
 .emailBottomText{
