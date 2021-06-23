@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="380" height="273" viewBox="0 0 380 273">
+  <g id="Group_495" data-name="Group 495" transform="translate(-450 -3347)">
+    <g id="Group_493" data-name="Group 493">
+      <text id="Lorem_ipsum_dolor_sit_amet_consectetur_adipiscing_elit._Tristique_" data-name="Lorem ipsum dolor sit amet, consectetur 
+adipiscing elit. Tristique " transform="translate(640 3587)" font-size="21" font-family="SegoeUI, Segoe UI"><tspan x="-189.584" y="0">Lorem ipsum dolor sit amet, consectetur </tspan><tspan x="-110.752" y="28">adipiscing elit. Tristique </tspan></text>
+      <g id="Ellipse_212" data-name="Ellipse 212" transform="translate(541 3347)" fill="none" stroke="#b7bec2" stroke-width="5">
+        <circle cx="99" cy="99" r="99" stroke="none"/>
+        <circle cx="99" cy="99" r="96.5" fill="none"/>
+      </g>
+      <g id="Ellipse_210" data-name="Ellipse 210" transform="translate(541 3347)" fill="none" stroke="#012d4a" stroke-linecap="round" stroke-width="5" stroke-dasharray="559.548">
+        <circle cx="99" cy="99" r="99" stroke="none"/>
+        <circle cx="99" cy="99" r="96.5" fill="none"/>
+      </g>
+    </g>
+    <text id="_9_" data-name="9%" transform="translate(607 3465)" font-size="48" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">9%</tspan></text>
+  </g>
+</svg>
