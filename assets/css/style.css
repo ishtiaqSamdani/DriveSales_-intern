@@ -1,4 +1,15 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+/* Color Scheme */
+
+.tds-bg-dark{
+  --tw-border-opacity: 1;
+    background-color: rgba(36, 36, 68,var(--tw-border-opacity));
+}
+
+.tds-bg-light{
+  --tw-border-opacity: 1;
+    background-color: rgba(60, 196, 228,var(--tw-border-opacity));
+}
+
 .ironMan1 {
   padding-top: 0;
   padding-bottom: 21px;
@@ -47,7 +58,10 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  padding: 5rem;
+  padding-top: 5rem;
+  padding-right: 5rem;
+  padding-left: 5rem;
+  padding-bottom: 2rem;
   min-height: 13rem;
 }
 .div2{
@@ -55,19 +69,19 @@
   flex-direction: column;
 
 }
-.pa3{
+/* .pa3{
   margin-bottom: 2rem;
-}
+} */
 .pa4{
   margin-bottom: 1rem;
 }
-.svgp{
-  display: inline-block;
+
+.ironMan8{
+  width: 100vw;
 }
 
 .ironMan8{
-  /* width: 100vw; */
-  background-color: black;
+  width: 100vw;
   color: white;
   display: flex;
   padding: 6rem;
@@ -95,10 +109,6 @@
 }
 
 
-
-
-
-
 @media screen and (max-width:1030px) {
   .ironMan8{
     flex-direction: column;
@@ -114,13 +124,10 @@
   .divi3{
     flex-direction: column;
   }
-  
-  
 }
 
 @media screen and (max-width:560px){
   .pa{
     padding-left: 1rem;
-  }
-  
+  }  
 }
