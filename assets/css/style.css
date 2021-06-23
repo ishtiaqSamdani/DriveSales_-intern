@@ -196,7 +196,6 @@ img{
 }
 .chdiv2 {
   margin-top: 1.4rem;
-  margin-right: 0rem;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -218,7 +217,6 @@ img{
   justify-content: center;
 }
 .conti {
-  margin-top: 0rem;
   width: 17rem;
   height: 17rem;
   display: flex;
