@@ -1,0 +1,41 @@
+.ironMan1 {
+  padding-top: 0;
+  padding-bottom: 21px;
+}
+.ironMan2 {
+  padding-bottom: 0px;
+}
+
+.ironMan3{
+    padding-top:0px;
+}
+
+.ironMan4{
+    padding: 0px;
+}
+
+.ironMan5{
+  display:flex;
+  flex-direction: row;
+}
+
+/* Anna ironman names enti anna code ila raasthe naa lanti pillalu em avvali */
+
+/* Body Config */
+body{
+	background-color: white;
+	font-family: 'Lato', sans-serif;
+	height: 100vh;
+
+}
+
+/* Color Scheme */
+.tds-bg-light{
+  --tw-bg-opacity: 1;
+  background-color: rgba(63, 194, 225,var(--tw-bg-opacity));
+}
+
+.tds-bg-dark{
+  --tw-bg-opacity: 1;
+  background-color: rgba(35, 36, 67,var(--tw-bg-opacity));
+}
