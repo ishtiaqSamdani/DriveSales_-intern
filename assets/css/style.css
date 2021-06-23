@@ -14,17 +14,6 @@
   padding-top: 0;
   padding-bottom: 21px;
 }
-.ironMan2 {
-  padding-bottom: 0px;
-}
-
-.ironMan3{
-    padding-top:0px;
-}
-
-.ironMan4{
-    padding: 0px;
-}
 
 .ironMan5{
   display:flex;
@@ -46,6 +35,7 @@
 .pa{
   padding-left: 6rem;
 }
+
 .pa2{
   display: flex;
   justify-content: center;
@@ -60,14 +50,17 @@
   padding: 5rem;
   min-height: 13rem;
 }
+
 .div2{
   display: flex;
   flex-direction: column;
 
 }
+
 .pa3{
   margin-bottom: 2rem;
 }
+
 .pa4{
   margin-bottom: 1rem;
 }
@@ -83,20 +76,14 @@
 .divi3{
   display: flex;
   flex-direction: row;
-
 }
 .inputi{
   padding: 0.5rem 8rem;
 }
-.btni{
-  padding: 0.5rem 2rem;;
-}
 
-/* .downw{
-  display: flex;
-  flex-direction: column;
-  flex-wrap: wrap;
-} */
+.btni{
+  padding: 0.5rem 2rem;
+}
 
 .emailBottomText{
   color: grey;
@@ -104,26 +91,22 @@
 
 .divi4{
   min-height: 25rem;
-  /* background-color: red; */
-  /* background-image: url('world3.png'); */
-  /* filter: blur(3px);
-  -webkit-filter: blur(3px); */
   background-size: contain;
   background-repeat: no-repeat;
-  background-position: center;
-  /* object-fit: cover; */
-  
+  background-position: center;  
 }
+
 img{
   object-fit: fill;
 }
+
 .pardiv{
   color: white;
   display: flex;
   justify-content:center;
   min-height: 36rem;
-  /* flex-wrap: wrap; */
 }
+
 .chdiv2{
   margin-right: 5rem;
   display: flex;
@@ -196,7 +179,6 @@ img{
 }
 .chdiv2 {
   margin-top: 1.4rem;
-  margin-right: 0rem;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -211,14 +193,12 @@ img{
   color: white;
 }
 .chdiv1 {
-  /* margin-right: 5rem; */
   margin-right: 0;
   display: flex;
   flex-direction: column;
   justify-content: center;
 }
 .conti {
-  margin-top: 0rem;
   width: 17rem;
   height: 17rem;
   display: flex;
