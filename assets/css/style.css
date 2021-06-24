@@ -47,7 +47,7 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  padding: 5rem;
+  padding: 3rem;
   min-height: 13rem;
 }
 
@@ -68,7 +68,7 @@
 .ironMan8{
   color: white;
   display: flex;
-  padding: 6rem;
+  padding: 3rem;
   align-items: center;
   justify-content: space-between;
 }
@@ -100,131 +100,6 @@ img{
   object-fit: fill;
 }
 
-.pardiv{
-  color: white;
-  display: flex;
-  justify-content:center;
-  min-height: 36rem;
-}
-
-.chdiv2{
-  margin-right: 5rem;
-  display: flex;
-  flex-direction: column;
-  justify-content: space-evenly;
-}
-.b2 {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  width: 11rem;
-  height: 11rem;
-  background-color: rgba(36, 36, 68);
-}
-.chdiv3{
-  margin-top: 3rem;
-  display: flex;
-  flex-direction: column;
-  justify-content: space-evenly;
-}
-.b3{
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  width: 11rem;
-  height: 11rem;
-  background-color: rgba(36, 36, 68);
-}
-.chdiv1{
-  margin-right: 5rem;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-}
-.conti{
-  margin-top: 3rem;
-  margin-right: 3rem;
-  width: 15rem;
-  height: 15rem;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-@media screen and (width:768px){
-.chdiv3{
-  margin-right: 0.2rem;
-}
-.chdiv1{
-  margin-left: 0.2rem;
-}
-  
-}
-@media screen and (max-width:766px){
-  .pardiv{
-    flex-wrap: wrap;
-  }
-  .chdiv3 {
-    margin-top: 1.4rem;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-}
-.b3 {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  background-color: rgba(36, 36, 68);
-  width: 9rem;
-  height: 8.5rem;
-}
-.chdiv2 {
-  margin-top: 1.4rem;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-}
-.b2 {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  width: 9rem;
-  height: 8.5rem;
-  background-color: rgba(36, 36, 68);
-  color: white;
-}
-.chdiv1 {
-  margin-right: 0;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-}
-.conti {
-  width: 17rem;
-  height: 17rem;
-  display: flex;
-  justify-content: center;
-  background-color: rgba(36, 36, 68);
-  align-items: center;
-}
-  
-}
-@media screen and (max-width:575px){
-  .chdiv3{
-    flex-direction: row;
-  }
-  .b3{
-    width: 13rem;
-  }
-  
-}
-@media screen and (max-width:455px){
-  .chdiv2{
-    flex-direction: row;
-  }
-  .b3{
-    width: 9rem;
-  }
-}
 @media screen and (max-width:1030px) {
   .ironMan8{
     flex-direction: column;
