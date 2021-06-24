@@ -10,6 +10,35 @@
     background-color: rgba(60, 196, 228,var(--tw-border-opacity));
 }
 
+.tds-text-light{
+  color: rgb(60, 196, 228);
+  border-color: rgb(60, 196, 228);
+}
+
+hr.hr-style-one {
+  border: 0;
+  height: 2px;
+  background: #999;
+}
+
+.bg-image-map{
+  --tw-border-opacity: 1;
+  background-color: rgba(60, 196, 228,var(--tw-border-opacity));
+  background-image: url('/assets/images/worldmap-dotted.svg');
+}
+
+li a{
+  margin-right: 1.25rem;
+}
+
+.footer{
+  margin-right: 3rem;
+}
+
+.pxsami{
+  padding:0rem  7rem;
+}
+
 .ironMan1 {
   padding-top: 0;
   padding-bottom: 21px;
@@ -110,6 +139,41 @@ img{
     margin-bottom: 1rem;
   }
 }
+
+@media screen and (max-width:1066px){
+  .footer{
+      margin-right : 1.5rem;
+
+  }
+}
+
+@media screen and (max-width:649px){
+  .footer{
+      margin-right : 0.5rem;
+
+  }
+}
+
+@media screen and (max-width:1291px){
+  .pxsami{
+      padding: 0 5rem;
+  }
+  .flexsami{
+      flex-direction: column;
+  }
+  
+}
+
+@media screen and (max-width:700px){
+  .flexsami{
+      flex-direction: row;
+  }
+  .pxsami{
+      padding: 0 1.3rem;
+  }
+  
+}
+
 @media screen and (max-width:574px){
   .divi3{
     flex-direction: column;
